@@ -1,1 +1,3 @@
-My first source code file
+ My first source file to test GitHub
+
+And then pushing the file from local to remote repo
